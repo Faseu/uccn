@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>zhinengjiezhiji@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-23.1%" y="-100.0%" width="146.2%" height="300.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="zhinengjiezhiji" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(0.000000, 2.000000)">
+            <g id="编组-3" transform="translate(16.000000, 10.000000)">
+                <polyline id="路径" stroke="#FE690C" stroke-width="2" stroke-linejoin="round" points="10.7 34.24 10.7 36.1125 10.7 41.73 13.1966667 39.8575 15.6933333 41.73 18.19 39.8575 20.6866667 41.73 23.1833333 39.8575 25.68 41.73 25.68 34.24"></polyline>
+                <circle id="椭圆形" fill="#CFCDCD" cx="18.19" cy="18.19" r="8.56"></circle>
+                <circle id="椭圆形" stroke="#454647" stroke-width="2" cx="18.19" cy="18.19" r="18.19"></circle>
+                <circle id="椭圆形" stroke="#454647" stroke-width="2" cx="18.19" cy="18.19" r="12.84"></circle>
+                <rect id="矩形" fill="#FE690C" x="21.4" y="16.05" width="6.42" height="2.675" rx="1.07"></rect>
+                <ellipse id="椭圆形" fill="#D8D8D8" opacity="0.5" filter="url(#filter-1)" cx="18" cy="50.5" rx="13" ry="3"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
